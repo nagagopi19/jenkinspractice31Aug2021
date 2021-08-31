@@ -9,8 +9,8 @@ class obj:
             if arr[i] == 0 and i!=0:
                 missing.append(i)
         return missing
-a = obj()
-#b= obj()
-#print(a.solve([0,1,3,5,7,9]))
-print(a.solve([0,1,2,3,4,5,6,8,9]))
+#a = obj()
+b= obj()
+print(a.solve([0,1,3,5,7,9]))
+#print(a.solve([0,1,2,3,4,5,6,8,9]))
 
