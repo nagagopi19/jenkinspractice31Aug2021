@@ -11,6 +11,6 @@ class obj:
         return missing
 #a = obj()
 b= obj()
-print(a.solve([0,1,3,5,7,9]))
+print(b.solve([0,1,3,5,7,9]))
 #print(a.solve([0,1,2,3,4,5,6,8,9]))
 
